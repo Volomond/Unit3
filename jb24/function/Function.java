@@ -12,7 +12,7 @@ public class Function {
 	}		
 	
 	public static double calc() {
-		int x;
+		double x;
 		double value = 0;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Please enter number ");
